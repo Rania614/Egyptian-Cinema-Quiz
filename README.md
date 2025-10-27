@@ -5,6 +5,9 @@ A beautifully crafted, interactive quiz game celebrating the golden age of Egypt
 ![Egyptian Cinema Quiz](https://img.shields.io/badge/React-18.3.1-blue) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.4.1-38bdf8) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-12.23.24-ff0055)
 
 ---
+##  Demo
+
+ [Live Demo on GitHub Pages](https://egyptian-cinema-quiz-s96d.vercel.app/)
 
 ##  Features
 
@@ -159,5 +162,6 @@ Have questions or suggestions? Feel free to reach out!
 - Email: Raniaabdelnasser93@gmail.com.com
 
 ---
+
 
 
